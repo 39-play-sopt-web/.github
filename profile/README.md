@@ -1,4 +1,4 @@
-<img width="5400" height="1631" alt="git_header" src="https://github.com/39-play-sopt-web/.github/raw/main/profile/header.png" />
+<img width="100%" alt="git_header" src="https://github.com/39-play-sopt-web/.github/raw/main/profile/header.png" />
 
 
 |   |   |   |   |
